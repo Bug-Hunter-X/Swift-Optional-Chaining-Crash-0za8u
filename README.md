@@ -1,0 +1,2 @@
+# Swift Optional Chaining Crash
+This repository demonstrates a common error in Swift programming involving optional chaining and forced unwrapping.  The code attempts to concatenate two optional strings without checking for nil values, leading to a runtime crash if either string is nil. The solution showcases the safe unwrapping technique using optional binding.
